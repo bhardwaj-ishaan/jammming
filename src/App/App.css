@@ -3,3 +3,7 @@ h1{
   text-align: center;
   font-size: 48px;
 }
+
+.App{
+  background-image: url('./appbackground.jpg');
+}
